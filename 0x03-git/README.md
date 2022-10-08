@@ -1,1 +1,1 @@
-my second committ
+my second commit
